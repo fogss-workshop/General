@@ -7,7 +7,7 @@ We're using this space for its Discussions capability (3rd tab from the left up 
 
 ## How to monitor Discussions
 
-To stay up-to-date with existing and new discussions, click on the watch button (with an eye icon) near the top of this page (above the green code button) and then select All Activity or Custom > Discussions (and Issues). You can then unsubscribe from any individual conversation if it is not relevant to you.
+To stay up-to-date with existing and new discussions, click on the watch button (with an eye icon) near the top of this page (above the green Code button) and then select All Activity or Custom > Discussions (and Issues). You can then unsubscribe from any individual conversation if it is not relevant to you.
 
 ## About FOGSS
 
