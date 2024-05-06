@@ -30,7 +30,7 @@ The work intended to take place here stems from discussions begun at the 2024 wo
 The community-identified guiding goal for FOGSS (task 1) is "_Capturing ongoing rapid transformations across the Greenland Ice Sheet and their impacts on Earth and society._"
 Here, with this Github workspace, we hope the Greenland Ice Sheet science community will continue advancing the second task (i.e., actionable initiatives/missions) between FOGSS workshops.
 
-You can learn more about these goals and the structure and content of the [2024 workshop here](https://www.fogss-workshop.org/2024-agenda). Work products and presentations from the [2024 workshop are here](https://drive.google.com/drive/folders/1Ik0qgwG9DA48HpYNrGFl-eps4-JxmG5d?usp=sharing).
+You can learn more about these goals and the structure and content of the [2024 workshop here](https://www.fogss-workshop.org/2024-agenda). Work products and presentations from the [2024 workshop are viewable in this Google Drive](https://drive.google.com/drive/folders/1Ik0qgwG9DA48HpYNrGFl-eps4-JxmG5d?usp=sharing).
 
 
 
