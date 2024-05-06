@@ -1,6 +1,7 @@
 # FOGSS Future of Greenland Ice Sheet Science Workshop 
 
 Welcome to the [FOGSS Workshop](https://fogss-workshop.squarespace.com/) GitHub page.
+Please contact the FOGSS organizers if you would like to become a member of this repository.
 
 ## About FOGSS
 
@@ -13,6 +14,6 @@ Write your first post either through Github's code editor or on your local compu
 
 
 ## Useful Links
-- [FOGSS Grand Central](https://fogss-workshop.squarespace.com/grand-central-2024)
+-  [FOGSS Grand Central](https://fogss-workshop.squarespace.com/grand-central-2024)
 - [Greenland’s National Research Strategy](https://nis.gl/wp-content/uploads/2023/01/english-book.pdf)
 - [Arctic Hub](https://arctichub.gl/)
