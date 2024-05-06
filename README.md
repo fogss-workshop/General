@@ -3,6 +3,12 @@
 Welcome to the [FOGSS Workshop](https://fogss-workshop.squarespace.com/) GitHub page.
 Please contact the FOGSS organizers if you would like to become a member of this repository.
 
+We're using this space for its Discussions capability (3rd tab from the left up top). The four main categories of methods we identified previously for studying the Greenland Ice Sheet have been broken out into their own categories. One of the first posts in each category should be the priorities identified during the FOGSS 2024 workshop at University of Idaho.
+
+## How to monitor Discussions
+
+To stay up-to-date with existing and new discussions, click on the watch button near the top of this page and then select All Activity or Custom > Discussions (and Issues). You can then unsubscribe from any individual conversation if it is not relevant to you.
+
 ## About FOGSS
 
 FOGSS workshops are the forum where the community maps out actionable priorities for Greenland Ice Sheet Science that inform U.S. funding agency programmatic planning.
