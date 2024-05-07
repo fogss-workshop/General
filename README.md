@@ -33,8 +33,18 @@ Here, with this Github workspace, we hope the Greenland Ice Sheet science commun
 You can learn more about these goals and the structure and content of the [2024 workshop here](https://www.fogss-workshop.org/2024-agenda). Work products and presentations from the [2024 workshop are viewable in this Google Drive](https://drive.google.com/drive/folders/1Ik0qgwG9DA48HpYNrGFl-eps4-JxmG5d?usp=sharing).
 
 
+## Working with Github
+Github might feel overwhelming at first, but fear not! We won't use it for computer code only, but also as a collaborative project management tool.
+
+- We highly recommend this inspiring article: [Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14108). It describes many Github use cases for science and academia, beyond maintaining version control for code.
+- We expect most of the work taking place here will be through the GUI at github.com, without any reliance on the git command line interface. For example, to edit this document, click the 📝 icon at the top right of this page, make your suggested changes, then select "Commit canges..."
 
 ## Useful Links
 - [FOGSS 2024 workshop](https://www.fogss-workshop.org/2024-agenda)
 - [Greenland’s National Research Strategy](https://nis.gl/wp-content/uploads/2023/01/english-book.pdf)
 - [Arctic Hub](https://arctichub.gl/)
+
+## Acknowledgements
+Work on FOGSS is supported via grants from NASA and NSF.
+
+This Github page is inspired by the project management and coordination implemented within https://github.com/IACS-cryo/Delineation-WG by @mankoff and @fmaussion.
